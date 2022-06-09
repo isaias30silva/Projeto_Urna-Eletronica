@@ -42,4 +42,13 @@
     
     .botao--confirma {
         font-size: 9px;
+    }
+
+    .aviso--grande {
+        font-size: 20px;
+    }
+    
+    .aviso--gigante {
+        font-size: 20px;
+    }
 }
