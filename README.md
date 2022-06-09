@@ -14,7 +14,7 @@
 
 ### Funcionamento:
 
-> O usuário começará a utilização da urna definindo o voto para vereador (6 dígitos). Depois, votará para prefeito (2 dígitos). Confirmando esses dois votos, o procedimento é finalizado.
+> O usuário começará a utilização da urna definindo o voto para vereador (5 dígitos). Depois, votará para prefeito (2 dígitos). Confirmando esses dois votos, o procedimento é finalizado.
 >
 > Nesse projeto, estão cadastrados dois candidatos para vereador e dois candidatos para prefeito:
 >
