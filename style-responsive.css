@@ -1,15 +1,30 @@
 @media (max-width: 1024px) {
     .urna {
-        flex-direction: column;
+        flex-direction:row;
         width: 90%;
+        height: 500px;
     }
+
+    .tela {
+        align-self:flex-start;
+        width: 50%;
+        height: 316px;
+    }
+
+    .teclado {
+        align-self: baseline;
+        margin-left: 6px;
+        width: 40%;
+        height: 320px;
+    }
+
 }
 
 @media (max-width: 650px) {
     .urna {
         width: 100%;
         padding: 10px;
-        height: 750px;
+        height: 630px;
     }
 
     .tela {
