@@ -27,6 +27,8 @@
     .teclado--botao {
         width: 50px;
         height: 40px;
+        font-size: 15px;
+        margin: 5px;
     }
 
     .botao--branco {
