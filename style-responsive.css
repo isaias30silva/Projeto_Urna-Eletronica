@@ -14,7 +14,7 @@
     .tela {
         align-self: center;
         width: 100%;
-        height: 310px;
+        height: 300px;
     }
 
     .teclado {
@@ -26,8 +26,8 @@
     }
 
     .teclado--botao {
-        width: 30px;
-        height: 20px;
+        width: 50px;
+        height: 40px;
         font-size: 15px;
         margin: 5px;
     }
