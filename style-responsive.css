@@ -2,12 +2,12 @@
     .urna {
         flex-direction:row;
         width: 90%;
-        height: 350px;
+        height: 320px;
     }
 
     .tela {
         align-self:flex-start;
-        width: 50%;
+        width: 60%;
         height: 316px;
     }
 
@@ -18,6 +18,24 @@
         height: 320px;
     }
 
+    .botao--branco {
+        font-size: 11px;
+    }
+    
+    .botao--corrige {
+        font-size: 11px;
+    }
+    
+    .botao--confirma {
+        font-size: 12px;
+        width: 70px;
+        height: 45px;
+    }
+
+    .aviso--grande {
+        font-size: 22px;
+    }
+
 }
 
 @media (max-width: 650px) {
@@ -25,7 +43,7 @@
         flex-direction:column;
         width: 100%;
         padding: 10px;
-        height: 600px;
+        height: 590px;
     }
 
     .tela {
@@ -64,7 +82,7 @@
     }
 
     .aviso--grande {
-        font-size: 30px;
+        font-size: 20px;
     }
     
     .aviso--gigante {
