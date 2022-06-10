@@ -103,7 +103,7 @@ body {
 }
 
 .numero {
-    display: inline-block;
+    display: table-cell;
     width: 30px;
     height: 40px;
     border: 1px solid #000;
