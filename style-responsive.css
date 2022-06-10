@@ -2,7 +2,7 @@
     .urna {
         flex-direction:row;
         width: 90%;
-        height: 500px;
+        height: 350px;
     }
 
     .tela {
@@ -22,9 +22,10 @@
 
 @media (max-width: 650px) {
     .urna {
+        flex-direction:column;
         width: 100%;
         padding: 10px;
-        height: 630px;
+        height: 600px;
     }
 
     .tela {
@@ -58,6 +59,8 @@
     
     .botao--confirma {
         font-size: 9px;
+        width: 60px;
+        height: 45px;
     }
 
     .aviso--grande {
