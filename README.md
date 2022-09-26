@@ -46,6 +46,10 @@
 >
 > Ao clicar no botão "CONFIRMA", o usuário não poderá alterar o voto. Importante: o voto para prefeito só estará habilitado após a confirmação de voto para vereador. 
 
+<img src = "voto.png">
+
+
+
 ### Link do projeto concluído:
 
 :link:[Clique aqui e veja o projeto em funcionamento](https://isaias30silva.github.io/Projeto_Urna-Eletronica/ "Projeto Urna Eletrônica")
